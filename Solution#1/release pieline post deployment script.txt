@@ -1,0 +1,1 @@
+cd MainProject & echo Started npm i & npm i --production & echo Finished npm i & echo Started copy & robocopy . .. /E  & echo Finished copy

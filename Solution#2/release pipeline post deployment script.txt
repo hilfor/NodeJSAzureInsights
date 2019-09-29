@@ -1,0 +1,1 @@
+cd Common & echo Started npm i on Common & npm i --production & echo Finished npm i on Common & cd ../MainProject & echo Started npm i on Main Project &  npm i --production &  echo Finished npm i on Main Project &  echo Started npm run build on Main Project npm run build  echo Finished npm run build on Main Project echo Started copy &  robocopy . .. /E  &  echo Finished copy 
